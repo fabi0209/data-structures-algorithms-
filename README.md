@@ -1,2 +1,2 @@
-# data-structures-algorithms-
-alogoeithms 
+# data-structures-algorithms
+algorithms 
